@@ -1,0 +1,26 @@
+{
+  "name": "bankist-site",
+  "version": "1.0.0",
+  "description": "site for bankist application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milan44i/bankist-site.git"
+  },
+  "author": "Milan Stankovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milan44i/bankist-site/issues"
+  },
+  "homepage": "https://github.com/milan44i/bankist-site#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
