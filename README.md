@@ -1,5 +1,5 @@
 # Bankist site
 
-Demo site for Bankist application
+Landing page for Bankist application 🏦
 
 [Live version](https://bankist-site-milan44.netlify.app)
