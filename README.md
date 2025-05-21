@@ -2,4 +2,4 @@
 
 Demo site for Bankist application
 
-[Demo version](https://bankist-site-milan44.netlify.app)
+[Live version](https://bankist-site-milan44.netlify.app)
